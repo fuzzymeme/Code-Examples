@@ -10,4 +10,5 @@
 # Other
 #####################
 .project
-.gitignore
+.classpath
+.settings
